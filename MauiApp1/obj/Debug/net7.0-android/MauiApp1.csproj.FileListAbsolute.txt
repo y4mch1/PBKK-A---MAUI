@@ -1,0 +1,7 @@
+C:\Users\widia\Downloads\PBKK-7fbc7039c113d8b3e940476e391639aca4afd016\MauiApp1\MauiApp1\obj\Debug\net7.0-android\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+C:\Users\widia\Downloads\PBKK-7fbc7039c113d8b3e940476e391639aca4afd016\MauiApp1\MauiApp1\obj\Debug\net7.0-android\build.props
+C:\Users\widia\Downloads\PBKK-7fbc7039c113d8b3e940476e391639aca4afd016\MauiApp1\MauiApp1\obj\Debug\net7.0-android\adb.props
+C:\Users\widia\Downloads\PBKK-7fbc7039c113d8b3e940476e391639aca4afd016\MauiApp1\MauiApp1\obj\Debug\net7.0-android\MauiApp1.csproj.AssemblyReference.cache
+C:\Users\widia\Downloads\PBKK-7fbc7039c113d8b3e940476e391639aca4afd016\MauiApp1\MauiApp1\obj\Debug\net7.0-android\mauiimage.inputs
+C:\Users\widia\Downloads\PBKK-7fbc7039c113d8b3e940476e391639aca4afd016\MauiApp1\MauiApp1\obj\Debug\net7.0-android\mauifont.inputs
+C:\Users\widia\Downloads\PBKK-7fbc7039c113d8b3e940476e391639aca4afd016\MauiApp1\MauiApp1\obj\Debug\net7.0-android\mauisplash.inputs
